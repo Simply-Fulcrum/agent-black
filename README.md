@@ -17,7 +17,7 @@ The guide on how to add the bot to your server, can be found [here](https://gith
 ## Features
 
 - Agent Black’s primary function is to record the bans of participating servers and warn other participating servers of said bans.
-- The bot has it's own ban command; this command enables you to ban users more easily than using the manual ban function.
+- The bot has its own ban command; this command enables you to ban users more easily than using the manual ban function.
 - Similarly to recording bans, the bot also has a warn command. This command warns other participating servers of troublesome members without banning them.
 - There is a command which enables you to view all of the members in your server who are banned or warned in any other participating servers.
 - Agent Black has a command which enables you to view basic account information of users, for example, account creation date and servers shared with Agent black. The command also shows the user’s previous offences in other participating servers.
@@ -25,7 +25,7 @@ The guide on how to add the bot to your server, can be found [here](https://gith
 
 ## Required Permissions
 
-- The bot requires access to the channel you want it to log it's messages in to. Preferably, this should be the staff channel; log channels are generally muted by staff because of bot spam in them. This bot doesn’t usually spam messages, so it would be good if it logs in a channel that everyone can see.
+- The bot requires access to the channel you want it to log its messages in to. Preferably, this should be the staff channel; log channels are generally muted by staff because of bot spam in them. This bot doesn’t usually spam messages, so it would be good if it logs in a channel that everyone can see.
 - The only administrative permission the bot requires is the 'Ban Members' permission. The bot can only view the server ban list with this command as the bot pulls the bans directly from the ban list. Without this permission, the bot cannot function. The bot also has its own ban command.
 
 ## FAQ
